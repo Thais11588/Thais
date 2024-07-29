@@ -1,5 +1,5 @@
 oas vindas ao meu perfil 💙💙
-Meu nome é Thaisf ferreira 
+Meu nome é Thais Ferreira 
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
